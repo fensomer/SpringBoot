@@ -1,0 +1,4 @@
+DELETE FROM USER;
+INSERT INTO USER (id, name) VALUES (1,'John');
+INSERT INTO USER (id, name) VALUES (2,'Smith');
+INSERT INTO USER (id, name) VALUES (3,'Siva');
