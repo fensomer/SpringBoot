@@ -1,4 +1,4 @@
-package com.rf.learning.quickspringboot.app;
+package com.rf.learning.quickspringboot.domain;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
