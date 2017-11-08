@@ -1,4 +1,3 @@
-DELETE FROM USER;
-INSERT INTO USER (id, name) VALUES (1,'John');
-INSERT INTO USER (id, name) VALUES (2,'Smith');
-INSERT INTO USER (id, name) VALUES (3,'Siva');
+INSERT INTO USERS (id, name, email) VALUES (1, 'John', 'john@gmail.com');
+INSERT INTO USERS (id, name, email) VALUES (2, 'Rod', 'rod@gmail.com');
+INSERT INTO USERS (id, name, email) VALUES (3, 'Mike', 'mike@gmail.com');

@@ -1,6 +1,6 @@
-package com.rf.learning.quickspringboot.web.controllers;
+package com.rf.learning.jpaspringboot.web.controllers;
 
-import com.rf.learning.quickspringboot.domain.UserRepository;
+import com.rf.learning.jpaspringboot.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

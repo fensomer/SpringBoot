@@ -1,4 +1,4 @@
-package com.rf.learning.quickspringboot;
+package com.rf.learning.jpaspringboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
