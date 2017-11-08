@@ -1,5 +1,0 @@
-0:0:0:0:0:0:0:1 - - [07/Nov/2017:23:20:22 +0000] "GET /springjdbctemplate HTTP/1.1" 302 - http-bio-8080-exec-1 0
-0:0:0:0:0:0:0:1 - - [07/Nov/2017:23:20:23 +0000] "GET /springjdbctemplate/ HTTP/1.1" 200 619 http-bio-8080-exec-2 802
-0:0:0:0:0:0:0:1 - - [07/Nov/2017:23:23:15 +0000] "GET /springjdbctemplate HTTP/1.1" 404 - http-bio-8080-exec-1 0
-0:0:0:0:0:0:0:1 - - [07/Nov/2017:23:25:51 +0000] "GET /springjdbctemplate HTTP/1.1" 302 - http-bio-8080-exec-1 0
-0:0:0:0:0:0:0:1 - - [07/Nov/2017:23:25:52 +0000] "GET /springjdbctemplate/ HTTP/1.1" 200 619 http-bio-8080-exec-3 653

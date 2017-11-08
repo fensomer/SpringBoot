@@ -1,6 +1,0 @@
-com\rf\learning\springmvcjpa\config\SpringWebAppInitializer.class
-com\rf\learning\springmvcjpa\repositories\UserRepository.class
-com\rf\learning\springmvcjpa\config\AppConfig.class
-com\rf\learning\springmvcjpa\domain\User.class
-com\rf\learning\springmvcjpa\config\WebMvcConfig.class
-com\rf\learning\springmvcjpa\web\controllers\HomeController.class

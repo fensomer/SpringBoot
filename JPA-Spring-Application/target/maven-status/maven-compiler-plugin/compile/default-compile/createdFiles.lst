@@ -1,0 +1,6 @@
+com\rf\learning\jpaspringapp\config\AppConfig.class
+com\rf\learning\jpaspringapp\web\controllers\HomeController.class
+com\rf\learning\jpaspringapp\config\WebMvcConfig.class
+com\rf\learning\jpaspringapp\repositories\UserRepository.class
+com\rf\learning\jpaspringapp\domain\User.class
+com\rf\learning\jpaspringapp\config\SpringWebAppInitializer.class

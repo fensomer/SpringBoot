@@ -1,0 +1,4 @@
+com\rf\learning\jpaspringbootapp\web\controllers\HomeController.class
+com\rf\learning\jpaspringbootapp\repository\UserRepository.class
+com\rf\learning\jpaspringbootapp\JPASpringBootApplication.class
+com\rf\learning\jpaspringbootapp\domain\User.class
